@@ -1,3 +1,8 @@
+> **Moved:** This project is maintained in [portfolio-analytics/projects/portfolio-risk-exposure-decomposition](https://github.com/john-stromberg/portfolio-analytics/tree/main/projects/portfolio-risk-exposure-decomposition).
+> This repository is retained as a historical snapshot.
+
+---
+
 # portfolio-risk-exposure-decomposition
 
 Track: **SMA Quantitative Research**
